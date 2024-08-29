@@ -1,0 +1,9 @@
+* {
+    font-family: Verdana, sans-serif;
+}
+
+h1,
+h2 {
+    font-family: Garamond, serif;
+    background-color: rgb(123, 154, 168);
+}
